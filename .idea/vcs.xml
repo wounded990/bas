@@ -5,5 +5,6 @@
     <mapping directory="$PROJECT_DIR$/GitHub/Basher" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/GitHub/ITSC-3155-group1-Repository" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/GitHub/bas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software-Eng" vcs="Git" />
   </component>
 </project>
